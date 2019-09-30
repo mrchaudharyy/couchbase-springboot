@@ -1,2 +1,2 @@
 # couchbase-springboot
-This repo includes couchbase CURD operation using Java and Spring Boot
+This repo includes couchbase CRUD operation using Java and Spring Boot
