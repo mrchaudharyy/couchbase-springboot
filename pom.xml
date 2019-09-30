@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.masterincoding</groupId>
-	<artifactId>CouchbasePractise</artifactId>
+	<artifactId>couchbase-springboot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>CouchbasePractise</name>
+	<name>couchbase-springboot</name>
 	<description>Demo project for CouchbasePractise CURD operations with Spring Boot</description>
 
 	<properties>
